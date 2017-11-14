@@ -1,6 +1,6 @@
 {
   "name": "@simplifield/passport-local",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Local username and password authentication strategy for Passport.",
   "keywords": [
     "passport",
